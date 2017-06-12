@@ -1,7 +1,7 @@
-SmartMirror
+VoidOS for SmartMirror
 ===========
 
-Motion controlled SmartMirror showing time and temperature in background with the possibility of adding any widget to the menu.
+VoidOS is a motion controlled SmartMirror showing time and temperature in background with the possibility of adding any widget to the menu.
 The camera is behind the two-way mirror to get the best possible look. The screen and camera are managed by a raspberry pi.
 The motion is managed by a server running in python with OpenCV, the server web is in NodeJS.<br><br>
 
@@ -10,7 +10,6 @@ Showing the display of the main menu and a use case on the widget Cinema (movie 
 <p align="center">
   <img src="/docs/SmartMirror_DisplayMenu_Preview.gif"/>       <img src="/docs/SmartMirror_Widget_Preview.gif"/>
   
-  Show full webm preview - https://gfycat.com/UnsungBlueAmericanshorthair
 </p>
 
 ### Capacities
